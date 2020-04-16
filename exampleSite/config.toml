@@ -10,7 +10,7 @@ title = "Assembly"
 
 # banner section (from here on is for assembly theme)
 [params.banner]
-  title = "This is Assembly Template"
+  title = "ARCHITECT HUGH WOOD"
   byline = "A free, CSS template ported over to a Hugo Theme."
 
 [params.actions] # CTAs
